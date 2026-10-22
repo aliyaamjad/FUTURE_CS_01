@@ -1,0 +1,14 @@
+# Assessment Evidence
+
+This folder documents the evidence collected during the
+initial review of the OWASP Juice Shop training application.
+
+## Evidence Index
+
+1. Homepage accessibility screenshot
+2. Project Information page screenshot
+
+These observations are informational and do not establish
+confirmed security vulnerabilities.
+
+No Nmap scan or OWASP ZAP scan results are claimed here.
