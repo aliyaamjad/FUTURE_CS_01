@@ -9,23 +9,15 @@ This project documents a preliminary, passive review of the OWASP Juice Shop web
 
 Assessment Target: "OWASP Juice Shop" (https://juice-shop.github.io/)
 
-Assessment Type: Initial passive review
+Assessment Type: preliminary, passive browser review.
 
 Assessment Date: 23 October 2026
 
-Objectives
-
-- Review publicly accessible pages and information.
-- Document observations with supporting screenshots.
-- Classify observations by risk level.
-- Provide practical security recommendations.
-- Maintain a clear record of assessment limitations.
+Target Limitation: The project information page was accessible during the review. The shopping application previously displayed its welcome, catalogue, registration, and login pages, but a later visit returned a Heroku application error. The exact application URL needs to be verified before further assessment.
 
 Methodology
 
-The review used a mobile web browser and publicly available project information. The observed pages included the homepage, project overview, and challenges information page.
-
-No active vulnerability testing was performed during the initial review.
+The review was conducted using a mobile web browser and publicly available project information. Screenshots document the welcome page, product catalogue, registration page, and login page observed during earlier visits. A subsequent attempt to access the application returned an application error. No active vulnerability testing, port scanning, or automated security scanning was performed during this preliminary review.
 
 Findings Summary
 
